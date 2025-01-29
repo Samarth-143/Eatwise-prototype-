@@ -75,7 +75,7 @@ class HomePage extends StatelessWidget {
                           CircleAvatar(
                             radius: 50,
                             backgroundImage: AssetImage(
-                                'assets/images/avatar.png'), // Add your image path here
+                                'assets/images/profile.png'),
                           ),
                           SizedBox(height: 10),
                           Text(
@@ -143,8 +143,8 @@ class HomePage extends StatelessWidget {
                       null,
                     ),
                     circularButton(
-                      'Self Care',
-                      Icons.spa,
+                      'Groceries',
+                      Icons.shopping_bag_outlined,
                       Colors.purple[100]!,
                       null,
                     ),

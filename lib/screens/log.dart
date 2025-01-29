@@ -164,41 +164,55 @@ class _SavedItemsPageState extends State<SavedItemsPage> {
     });
   }
 
+  Future<void> _removeItem(int index) async {
+    setState(() {
+      _savedItems.removeAt(index);
+    });
+
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString('savedNutrition', json.encode(_savedItems));
+    _calculateTotals(); // Recalculate totals after removal
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Saved Items')),
-      body: Padding(
-        padding: EdgeInsets.all(16.0),
-        child: Column(
-          children: [
-            Expanded(
-              child: ListView.builder(
-                itemCount: _savedItems.length,
-                itemBuilder: (context, index) {
-                  final item = _savedItems[index];
-                  return Card(
-                    child: ListTile(
-                      title: Text(item['name']),
-                      subtitle: Text(
-                        'Calories: ${item['calories']} kcal\n'
-                            'Protein: ${item['protein_g']} g\n'
-                            'Carbs: ${item['carbohydrates_total_g']} g\n'
-                            'Fat: ${item['fat_total_g']} g',
-                      ),
-                    ),
-                  );
-                },
-              ),
-            ),
-            SizedBox(height: 16),
-            Text('Total Calories: ${_totalCalories.toStringAsFixed(0)} kcal'),
-            Text('Total Protein: ${_totalProtein.toStringAsFixed(1)} g'),
-            Text('Total Carbs: ${_totalCarbs.toStringAsFixed(1)} g'),
-            Text('Total Fat: ${_totalFat.toStringAsFixed(1)} g'),
-          ],
+        appBar: AppBar(title: Text('Saved Items')),
+        body: Padding(
+          padding: EdgeInsets.all(16.0),
+          child: Column(
+            children: [
+          Expanded(
+          child: ListView.builder(
+          itemCount: _savedItems.length,
+            itemBuilder: (context, index) {
+              final item = _savedItems[index];
+              return Card(
+                child: ListTile(
+                  title: Text(item['name']),
+                  subtitle: Text(
+                    'Calories: ${item['calories']} kcal\n'
+                        'Protein: ${item['protein_g']} g\n'
+                        'Carbs: ${item['carbohydrates_total_g']} g\n'
+                        'Fat: ${item['fat_total_g']} g',
+                  ),
+                  trailing: IconButton(
+                    icon: Icon(Icons.delete, color: Colors.red),
+                    onPressed: () => _removeItem(index),
+                  ),
+                ),
+              );
+            },
+          ),
         ),
-      ),
+        SizedBox(height: 16),
+        Text('Total Calories: ${_totalCalories.toStringAsFixed(0)} kcal'),
+    Text('Total Protein: ${_totalProtein.toStringAsFixed(1)} g'),
+    Text('Total Carbs: ${_totalCarbs.toStringAsFixed(1)} g'),
+    Text('Total Fat: ${_totalFat.toStringAsFixed(1)} g'),
+    ],
+    ),
+    ),
     );
   }
 }
