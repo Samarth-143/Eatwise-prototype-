@@ -1,24 +1,36 @@
 import 'package:flutter/material.dart';
-import 'package:biolensproto/screens/home.dart'; // Import HomePage
-import 'package:biolensproto/screens/saved_images.dart'; // Import SavedImagesPage
+import 'package:biolensproto/screens/home.dart';
+import 'package:biolensproto/screens/saved_images.dart';
 
-class ProfileApp extends StatelessWidget {
+class ProfilePage extends StatefulWidget {
   @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: ProfilePage(),
-    );
-  }
+  _ProfilePageState createState() => _ProfilePageState();
 }
 
-class ProfilePage extends StatelessWidget {
+class _ProfilePageState extends State<ProfilePage> {
+  int _selectedIndex = 3; // Set default index for Profile
+
+  void _onItemTapped(int index) {
+    if (index == _selectedIndex) return; // Prevent reloading same page
+
+    if (index == 0) {
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(builder: (context) => HomePage()),
+      );
+    } else if (index == 2) {
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(builder: (context) => SavedImagesPage()),
+      );
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('My page'),
-        centerTitle: false,
+        title: Text('My Page'),
         backgroundColor: Colors.white,
         elevation: 0,
         foregroundColor: Colors.black,
@@ -48,24 +60,13 @@ class ProfilePage extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'ankitbhaumik23',
-                          style: TextStyle(
-                            fontSize: 18,
-                            fontWeight: FontWeight.bold,
-                          ),
+                          'User',
+                          style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
                         ),
                         SizedBox(height: 4),
                         TextButton(
                           onPressed: () {},
-                          style: TextButton.styleFrom(
-                            padding: EdgeInsets.zero,
-                            minimumSize: Size(50, 20),
-                            tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                          ),
-                          child: Text(
-                            'Edit',
-                            style: TextStyle(color: Colors.blue),
-                          ),
+                          child: Text('Edit', style: TextStyle(color: Colors.blue)),
                         ),
                       ],
                     ),
@@ -82,46 +83,49 @@ class ProfilePage extends StatelessWidget {
               onTap: () {},
             ),
             Container(
-              height: 100,
+              height: 120,
               padding: EdgeInsets.symmetric(horizontal: 16),
-              child: ListView(
+              child: SingleChildScrollView(
                 scrollDirection: Axis.horizontal,
-                children: [
-                  BadgeTile(
-                    image: Icons.directions_walk,
-                    label: '30,000 steps',
-                    date: '21 Feb 2024',
-                  ),
-                  SizedBox(width: 16),
-                  BadgeTile(
-                    image: Icons.directions_walk,
-                    label: '20,000 steps',
-                    date: '9 Jan 2024',
-                  ),
-                ],
+                child: Row(
+                  children: [
+                    BadgeTile(
+                      image: Icons.emoji_food_beverage,
+                      label: '   ',
+                      date: '21 Feb 2024',
+                    ),
+                    SizedBox(width: 16),
+                    BadgeTile(
+                      image: Icons.directions_walk,
+                      label: '  ',
+                      date: '9 Jan 2024',
+                    ),
+                  ],
+                ),
               ),
             ),
+
             Divider(),
 
             // Personal Best Section
             ListTile(
-              title: Text('Personal best'),
+              title: Text('Personal Best'),
               trailing: Icon(Icons.arrow_forward_ios, size: 16),
               onTap: () {},
             ),
             ListTile(
               leading: Icon(Icons.directions_run, size: 40, color: Colors.orange),
               title: Text(
-                '30,895',
+                '895',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
               ),
-              subtitle: Text('Most steps'),
+              subtitle: Text('Least Calories'),
             ),
             Divider(),
 
             // Weekly Summary Section
             ListTile(
-              title: Text('Weekly summary'),
+              title: Text('Weekly Summary'),
               trailing: Icon(Icons.arrow_forward_ios, size: 16),
               onTap: () {},
             ),
@@ -137,7 +141,7 @@ class ProfilePage extends StatelessWidget {
                   ),
                   Spacer(),
                   Text(
-                    '65 mins',
+                    '10,000 calories',
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
                 ],
@@ -147,30 +151,19 @@ class ProfilePage extends StatelessWidget {
         ),
       ),
       bottomNavigationBar: BottomNavigationBar(
+        type: BottomNavigationBarType.fixed,
+        selectedItemColor: Colors.blue,
+        unselectedItemColor: Colors.black,
+        selectedLabelStyle: TextStyle(fontSize: 14),
+        unselectedLabelStyle: TextStyle(fontSize: 12),
+        currentIndex: _selectedIndex,
+        onTap: _onItemTapped,
         items: [
-          BottomNavigationBarItem(
-            icon: Icon(Icons.home),
-            label: 'Home',
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.people),
-            label: 'Together',
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.fitness_center),
-            label: 'Fitness',
-          ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.person),
-            label: 'My page',
-          ),
+          BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
+          BottomNavigationBarItem(icon: Icon(Icons.camera), label: 'Scan'),
+          BottomNavigationBarItem(icon: Icon(Icons.image), label: 'Saved Images'),
+          BottomNavigationBarItem(icon: Icon(Icons.person), label: 'Profile'),
         ],
-        currentIndex: 3, // 'My page' selected
-        selectedItemColor: Colors.black,
-        unselectedItemColor: Colors.grey,
-        onTap: (index) {
-          // Handle navigation here
-        },
       ),
     );
   }

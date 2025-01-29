@@ -71,7 +71,7 @@ class _MealPlannerScreenState extends State<MealPlannerScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Meal Planner'),
+        title: Text('Details'),
         backgroundColor: Colors.blue[300],
       ),
       body: SingleChildScrollView(

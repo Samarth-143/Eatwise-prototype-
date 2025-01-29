@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MealPlannerScreen(), // Splash screen is the first screen
+      home: SplashScreen(), // Splash screen is the first screen
     );
   }
 }

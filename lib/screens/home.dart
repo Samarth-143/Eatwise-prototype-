@@ -1,3 +1,4 @@
+import 'package:biolensproto/screens/log.dart';
 import 'package:flutter/material.dart';
 import 'package:biolensproto/screens/day_goal.dart';
 import 'package:image_picker/image_picker.dart';
@@ -5,6 +6,8 @@ import 'dart:io';
 import 'package:path_provider/path_provider.dart';
 import 'package:biolensproto/screens/saved_images.dart';
 import 'package:biolensproto/screens/profile_page.dart';
+
+import 'analysis.dart';
 
 class HomePage extends StatelessWidget {
   final ImagePicker _picker = ImagePicker();
@@ -101,27 +104,61 @@ class HomePage extends StatelessWidget {
               ),
               SizedBox(height: 30),
 
-              // Circular Buttons
+              // Circular Buttons (3 on the first row, 2 on the second)
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 15),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                child: Wrap(
+                  spacing: 20,
+                  runSpacing: 20,
+                  alignment: WrapAlignment.center,
                   children: [
                     circularButton(
-                        'Today\'s Goal', Icons.mood, Colors.green[100]!, () {
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                            builder: (context) =>
-                                GoalPage(Goal: 550)), // Pass the goal here
-                      );
-                    }),
-                    circularButton('Analysis', Icons.assessment,
-                        Colors.orange[100]!, null),
-                    circularButton('AI Chatbot', Icons.chat_bubble_outline,
-                        Colors.yellow[100]!, null),
+                      'Today\'s Goal',
+                      Icons.mood,
+                      Colors.green[100]!,
+                          () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => GoalPage(Goal: 550),
+                          ),
+                        );
+                      },
+                    ),
                     circularButton(
-                        'Self Care', Icons.spa, Colors.purple[100]!, null),
+                      'Analysis',
+                      Icons.assessment,
+                      Colors.orange[100]!,
+                          () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => AnalysisPage()),
+                        );
+                      },
+                    ),
+                    circularButton(
+                      'AI Chatbot',
+                      Icons.chat_bubble_outline,
+                      Colors.yellow[100]!,
+                      null,
+                    ),
+                    circularButton(
+                      'Self Care',
+                      Icons.spa,
+                      Colors.purple[100]!,
+                      null,
+                    ),
+                    circularButton(
+                      'Log',
+                      Icons.list_alt,
+                      Colors.blue[100]!,
+                          () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(builder: (context) => NutritionLogPage()), // Navigate to Log Page
+                        );
+                      },
+                    ),
                   ],
                 ),
               ),
@@ -135,8 +172,8 @@ class HomePage extends StatelessWidget {
           type: BottomNavigationBarType.fixed,
           selectedItemColor: Colors.blue,
           unselectedItemColor: Colors.black,
-          selectedLabelStyle: TextStyle(fontSize: 14), // Customize selected label style
-          unselectedLabelStyle: TextStyle(fontSize: 12), // Customize unselected label style
+          selectedLabelStyle: TextStyle(fontSize: 14),
+          unselectedLabelStyle: TextStyle(fontSize: 12),
           items: [
             BottomNavigationBarItem(
               icon: Icon(Icons.home),
@@ -163,7 +200,7 @@ class HomePage extends StatelessWidget {
                 context,
                 MaterialPageRoute(builder: (context) => SavedImagesPage()),
               );
-            }else if (index == 3) {
+            } else if (index == 3) {
               Navigator.push(
                 context,
                 MaterialPageRoute(builder: (context) => ProfilePage()),
@@ -214,24 +251,18 @@ class HomePage extends StatelessWidget {
     );
 
     if (photo != null) {
-      // Get the directory to save the image
       final Directory appDirectory = await getApplicationDocumentsDirectory();
       final String appPath = appDirectory.path;
-      final String fileName = DateTime.now()
-          .millisecondsSinceEpoch
-          .toString(); // Create a unique file name
+      final String fileName = DateTime.now().millisecondsSinceEpoch.toString();
       final File savedImage = File('$appPath/$fileName.png');
 
-      // Copy the image to the app's directory
       await File(photo.path).copy(savedImage.path);
 
-      // Show a confirmation dialog
       showDialog(
         context: context,
         builder: (context) => AlertDialog(
           title: Text('Image Saved'),
-          content: Text(
-              'The image has been saved to app storage at $appPath/$fileName.png.'),
+          content: Text('The image has been saved to app storage at $appPath/$fileName.png.'),
           actions: [
             TextButton(
               onPressed: () {
