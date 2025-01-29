@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201725549649",
+    "project_id": "biolensproto",
+    "storage_bucket": "biolensproto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201725549649:android:681612de2bcc4f4545ac70",
+        "android_client_info": {
+          "package_name": "com.example.biolensproto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXxCea2h0GgPUck5reMKHmdznthDey7bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

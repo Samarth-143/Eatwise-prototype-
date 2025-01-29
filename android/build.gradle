@@ -1,0 +1,30 @@
+buildscript {
+    repositories {
+        google()            // Google's Maven repository
+        mavenCentral()      // Central Maven repository
+    }
+}
+
+allprojects {
+    repositories {
+        google()            // Google's Maven repository
+        mavenCentral()      // Central Maven repository
+    }
+}
+
+// This will define where your build output will go
+rootProject.buildDir = '../build'
+
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+
+// Ensure that all projects are evaluated
+subprojects {
+    project.evaluationDependsOn(":app")
+}
+
+// This task cleans the build directory
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}
