@@ -1,13 +1,14 @@
-import 'package:biolensproto/screens/log.dart';
+import 'dart:io';
+
+import 'package:biolensproto/screens/profile_page.dart';
+import 'package:biolensproto/screens/saved_images.dart';
+import 'package:biolensproto/screens/sms_reader.dart';
 import 'package:flutter/material.dart';
 import 'package:biolensproto/screens/day_goal.dart';
 import 'package:image_picker/image_picker.dart';
-import 'dart:io';
 import 'package:path_provider/path_provider.dart';
-import 'package:biolensproto/screens/saved_images.dart';
-import 'package:biolensproto/screens/profile_page.dart';
-
 import 'analysis.dart';
+import 'log.dart';
 
 class HomePage extends StatelessWidget {
   final ImagePicker _picker = ImagePicker();
@@ -116,7 +117,12 @@ class HomePage extends StatelessWidget {
                       'Today\'s Goal',
                       Icons.mood,
                       Colors.green[100]!,
-                          () {
+                          () {(
+                          id: 0,
+                          title: 'Today\'s Goal',
+                          body: 'You are making great progress towards your goal!',
+                        );
+
                         Navigator.push(
                           context,
                           MaterialPageRoute(
@@ -137,10 +143,15 @@ class HomePage extends StatelessWidget {
                       },
                     ),
                     circularButton(
-                      'AI Chatbot',
-                      Icons.chat_bubble_outline,
-                      Colors.yellow[100]!,
-                      null,
+                        'SMS Reader',
+                        Icons.chat_bubble_outline,
+                        Colors.yellow[100]!,
+                            () {
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(builder: (context) => EBillReaderPage()), // Navigate to Log Page
+                          );
+                        }
                     ),
                     circularButton(
                       'Groceries',

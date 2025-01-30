@@ -1,0 +1,953 @@
+Name,Category,SubCategory,Quantity,Weight,Label,SubCategory_Encoded,junk,healthy,non-edible
+Premia Badam (Almonds),Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+Premia Badam (Almonds),Grocery,Grocery/Dry Fruits,100 gm,100,healthy,10,0,1,0
+Premia Badam (Almonds),Grocery,Grocery/Dry Fruits,200 gm,200,healthy,10,0,1,0
+Nutraj California Almonds (Badam),Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Nutraj California Almonds (Badam),Grocery,Dry Fruits,1 kg,1000,healthy,7,0,1,0
+Chana Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Chana Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Rajma White,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Rajma Kashmiri Red,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Tata Sampann Chana Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Tata Sampann Chana Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Rajma Red Small,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Satyam Rajma Pink,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+DMart Healthy Choice Unpolished Chana Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Satyam Rajma Sharmili,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Satyam Chana Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Tata Sampann 100% Organic Unpolished Chana Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Tata Sampann Organic Unpolished Rajma Red,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+ProV Select California Almonds,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+ProV Select California Independence,Grocery,Dry Fruits,1 kg,1000,healthy,7,0,1,0
+Moong Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Moong Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Nutraj Cashews,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Nutraj Cashews,Grocery,Dry Fruits,200 gm,200,healthy,7,0,1,0
+Premia Regular Kaju (Cashews) - 320,Grocery,Grocery/Dry Fruits,100 gm,100,healthy,10,0,1,0
+Premia Regular Kaju (Cashews) - 320,Grocery,Grocery/Dry Fruits,200 gm,200,healthy,10,0,1,0
+Premia Regular Kaju (Cashews) - 320,Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+Moong Dal Chilti,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Moong Dal Chilti,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Tata Sampann Moong Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Tata Sampann Moong Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Kalbavi Cashews (Kaju),Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Premia Kaju Tukda (Cashews),Grocery,Grocery/Dry Fruits,100 gm,100,healthy,10,0,1,0
+Premia Kaju Tukda (Cashews),Grocery,Grocery/Dry Fruits,200 gm,200,healthy,10,0,1,0
+Premia Kaju Tukda (Cashews),Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+Chowli Big,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Chowli Premium,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Premia Kaju,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Chowli Small,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Premia Cashew Broken,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+DMart Healthy Choice Unpolished Moong Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Premia Kaju Special (Cashews),Grocery,Grocery/Dry Fruits,100 gm,100,healthy,10,0,1,0
+Premia Kaju Special (Cashews),Grocery,Grocery/Dry Fruits,200 gm,200,healthy,10,0,1,0
+Premia Kaju Special (Cashews),Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+Kokan Gem Goa Cashew Classic (Kaju),Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Kokan Gem Goa Cashew Premium (Kaju),Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Tata Sampann Moong Chilka,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Chowli Red,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Satyam Moong Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Tata Sampann 100% Organic Unpolished Moong Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Premia Premium Kaju (Cashews) - 210,Grocery,Grocery/Dry Fruits,100 gm,100,healthy,10,0,1,0
+Premia Premium Kaju (Cashews) - 210,Grocery,Grocery/Dry Fruits,200 gm,200,healthy,10,0,1,0
+Premia Premium Kaju (Cashews) - 210,Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+24 Mantra Organic Moong Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Satyam Moong Chilti,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Kokan Gem Goa Cashews Tukda,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Satyam Chowla,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Nutraj Broken Cashew,Grocery,Dry Fruits,400 gm,400,healthy,7,0,1,0
+Organic Tattva Moong Dal Whole,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+ProV Select Cashews,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Tur Dal Latur,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Tur Dal Latur,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Tata Sampann Toor Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Tata Sampann Toor Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Tur Dal Premium Gujarat,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Tur Dal Premium Gujarat,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+DMart Healthy Choice Unpolished Toor Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Tata Sampann 100% Organic Unpolished Toor Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Satyam Tur (Toor) Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Organic Tattva Arhar Tur Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Toor Dal Plain,Grocery,Dals,5 kg,5000,healthy,6,0,1,0
+Toor Dal Oily,Grocery,Dals,5 kg,5000,healthy,6,0,1,0
+24 Mantra Organic Tur Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Satyam Toor Dal Oily,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Carnival Classic Pista Magaz,Grocery,Dry Fruits,250 gm,250,healthy,7,0,1,0
+Premia Soyabean,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Carnival Classic California Pistachios,Grocery,Dry Fruits,250 gm,250,healthy,7,0,1,0
+Tuwar Whole,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Udid (Urad) Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Udid (Urad) Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Desi Kabuli Chana,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Desi Kabuli Chana,Grocery,Pulses,1 kg,1000,healthy,16,0,1,0
+Udid,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Date Crown Fard (Khajur),Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+Tata Sampann Urad Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Tata Sampann Urad Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Emperor Dates - Deseeded Black Dates (Khajur),Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+Satyam Kabuli Chana,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Udid (Urad) Dal Chilti,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Falcon UAE Dates Seedless (Khajur),Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+Premia Red Dried Dates (Kharik),Grocery,Grocery/Dry Fruits,100 gm,100,healthy,10,0,1,0
+Premia Red Dried Dates (Kharik),Grocery,Grocery/Dry Fruits,200 gm,200,healthy,10,0,1,0
+Premia Red Dried Dates (Kharik),Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+Emperor Royal Peacock Seeded Dates (Khajur),Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+Emperor Dates Iranian Muzafati,Grocery,Dry Fruits,400 gm,400,healthy,7,0,1,0
+24 Mantra Organic Kabuli Chana,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Date Crown Bumaan Dates,Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+Satyam Udid (Urad) Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Apis Royal Zahidi Premium Dates,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+King Solomon Medjoul Natural Dates,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Falcon Safawi Dates,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Tata Sampann Organic Unpolished Kabuli Chana,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Organic Tattva Kabuli Chana,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Nutraj Dry Dates (Chuara-Khareek),Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Falcon Aqaba Dates,Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+King Solomon Oriental Dates,Grocery,Dry Fruits,250 gm,250,healthy,7,0,1,0
+Royal Delight Finest Oman Dates,Grocery,Dry Fruits,400 gm,400,healthy,7,0,1,0
+Shamim Iranian Wet Dates,Grocery,Dry Fruits,400 gm,400,healthy,7,0,1,0
+Emperor Premium Dates Zahidi,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Tata Sampann Organic Unpolished Urad Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Falcon UAE Dates Seeded,Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+Organic Tattva Urad Dal White Split,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Azmah Dates,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Apis Premium Seeded Dates,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Royal Delight Finest Ajwa Dates,Grocery,Dry Fruits,250 gm,250,healthy,7,0,1,0
+Organic Tattva Urad Dal Whole White,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Royal Delight Finest Mabroom Dates,Grocery,Dry Fruits,250 gm,250,healthy,7,0,1,0
+Royal Delight Finest Safavi Dates,Grocery,Dry Fruits,250 gm,250,healthy,7,0,1,0
+Masoor Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Masoor Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Premia Kismis Indian (Raisins),Grocery,Grocery/Dry Fruits,100 gm,100,healthy,10,0,1,0
+Premia Kismis Indian (Raisins),Grocery,Grocery/Dry Fruits,200 gm,200,healthy,10,0,1,0
+Premia Kismis Indian (Raisins),Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+Chana Small,Grocery,Pulses,1 kg,1000,healthy,16,0,1,0
+Chana Small,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Chana Big,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Tata Sampann Masoor Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Tata Sampann Masoor Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Nutraj Raisins - Kishmish,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Chana Green,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Satyam Masur Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Mahafruit Premium Quality Kishmish (Raisins),Grocery,Dry Fruits,200 gm,200,healthy,7,0,1,0
+Mahafruit Premium Quality Kishmish (Raisins),Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Satyam Chana Mosambi,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Satyam Chana Small,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Organic Tattva Kala Chana,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Satyam Chana Green,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Carnival Premium Seedless Black Raisins,Grocery,Dry Fruits,250 gm,250,healthy,7,0,1,0
+Tata Sampann Organic Unpolished Brown (Kala) Chana,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Nutraj California Whole Walnut (Akrod),Grocery,Dry Fruits,1 Kg,1000,healthy,7,0,1,0
+Daliya,Grocery,Dals,200 gm,200,healthy,6,0,1,0
+Daliya,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Nutraj Daily Walnut Kernels,Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Udid (Urad) Black Whole,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+KMK Walnut Shell (Whole),Grocery,Dry Fruits,500 gm,500,healthy,7,0,1,0
+Satyam Udid (Urad) Whole,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Moong Whole,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Mix Dal,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Mix Dal,Grocery,Dals,1 kg,1000,healthy,6,0,1,0
+Satyam Moong Whole,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+24 Mantra Organic Green Moong Whole,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Dal - Rice Mix,Grocery,Dals,500 gm,500,healthy,6,0,1,0
+Masoor Whole,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Masoor Whole,Grocery,Pulses,1 kg,1000,healthy,16,0,1,0
+Premia Mixed Dry Fruits,Grocery,Grocery/Dry Fruits,200 gm,200,healthy,10,0,1,0
+Premia Mixed Dry Fruits,Grocery,Grocery/Dry Fruits,500 gm,500,healthy,10,0,1,0
+Nutraj Mix Dry Fruits,Grocery,Dry Fruits,450 gm,450,healthy,7,0,1,0
+Satyam Masoor Whole,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Vatana White,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Vatana Green,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Satyam Safed (White) Vatana,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Vatana Black,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Satyam Vatana Green,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Satyam Vatana Black,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Matki,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Matki,Grocery,Pulses,1 kg,1000,healthy,16,0,1,0
+Matki Small,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Mixed Pulses For Sprout,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Wal,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Moong Whole Small,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Satyam Math (Matki),Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Satyam Wal Kadwa,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Mix Chana Vatana (for Sprout),Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Ranguni Wal,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Wal Papdi,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Satyam Wal,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Kulith (Horse Gram),Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Carnival Premium Anjeer Figs,Grocery,Dry Fruits,250 gm,250,healthy,7,0,1,0
+Nutraj Signature Fig (Anjeer) Gold,Grocery,Dry Fruits,250 gm,250,healthy,7,0,1,0
+Premia Groundnut,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Premia Groundnut,Grocery,Pulses,1 kg,1000,healthy,16,0,1,0
+Satyam Singdana (Groundnut),Grocery,Masala & Spices,500 gm,500,healthy,15,0,1,0
+24 Mantra Organic Peanut,Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Organic Tattva Groundnuts (Peanuts),Grocery,Pulses,500 gm,500,healthy,16,0,1,0
+Premia Sugar,Grocery,Grocery/Salt / Sugar / Jaggery,1 kg,1000,non-edible,14,0,0,1
+Premia Sugar,Grocery,Grocery/Salt / Sugar / Jaggery,5 kg,5000,non-edible,14,0,0,1
+Premia Cow Ghee Pouch,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Premia Poha Jada,Grocery,Grocery/Rice & Rice Products,1 kg,1000,non-edible,13,0,0,1
+Premia Poha Jada,Grocery,Grocery/Rice & Rice Products,500 gm,500,non-edible,13,0,0,1
+Premia Jeera,Grocery,Grocery/Masala & Spices,100 gm,100,non-edible,12,0,0,1
+Premia Jeera,Grocery,Grocery/Masala & Spices,200 gm,200,non-edible,12,0,0,1
+Premia Jeera,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Premia Sabudana,Grocery,Grocery/Flours & Grains,500 gm,500,non-edible,11,0,0,1
+Premia Sabudana,Grocery,Grocery/Flours & Grains,1 kg,1000,non-edible,11,0,0,1
+Premium Jaggery,Grocery,Grocery/Salt / Sugar / Jaggery,900 gm,900,non-edible,14,0,0,1
+Premia Dry Coconut,Grocery,Grocery/Masala & Spices,200 gm,200,non-edible,12,0,0,1
+Premia Dry Coconut,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Keshar Premium Natural Jaggery Jar,Grocery,Grocery/Salt / Sugar / Jaggery,900 gm,900,non-edible,14,0,0,1
+Premia Dhaniya,Grocery,Grocery/Masala & Spices,200 gm,200,non-edible,12,0,0,1
+Premia Dhaniya,Grocery,Grocery/Masala & Spices,400 gm,400,non-edible,12,0,0,1
+Premia Kashmiri Chilli Powder Deluxe,Grocery,Grocery/Masala & Spices,100 gm,100,non-edible,12,0,0,1
+Premia Kashmiri Chilli Powder Deluxe,Grocery,Grocery/Masala & Spices,200 gm,200,non-edible,12,0,0,1
+Premia Kashmiri Chilli Powder Deluxe,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Premia Badishep,Grocery,Grocery/Masala & Spices,100 gm,100,non-edible,12,0,0,1
+Premia Badishep,Grocery,Grocery/Masala & Spices,200 gm,200,non-edible,12,0,0,1
+Premia Badishep,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Premia Rai,Grocery,Grocery/Masala & Spices,100 gm,100,non-edible,12,0,0,1
+Premia Rai,Grocery,Grocery/Masala & Spices,200 gm,200,non-edible,12,0,0,1
+Premia Rai,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Premia Kashmiri Chilli Powder,Grocery,Grocery/Masala & Spices,1 kg,1000,non-edible,12,0,0,1
+Mamra (Puffed Rice),Grocery,Grocery/Rice & Rice Products,500 gm,500,non-edible,13,0,0,1
+Jaggery,Grocery,Grocery/Salt / Sugar / Jaggery,450 gm,450,non-edible,14,0,0,1
+Jaggery,Grocery,Grocery/Salt / Sugar / Jaggery,900 gm,900,non-edible,14,0,0,1
+Premia Haldi Powder Deluxe,Grocery,Grocery/Masala & Spices,100 gm,100,non-edible,12,0,0,1
+Premia Haldi Powder Deluxe,Grocery,Grocery/Masala & Spices,200 gm,200,non-edible,12,0,0,1
+Premia Haldi Powder Deluxe,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Premia Haldi Powder Deluxe,Grocery,Grocery/Masala & Spices,1 kg,1000,non-edible,12,0,0,1
+Premia Dhania Powder Deluxe,Grocery,Grocery/Masala & Spices,100 gm,100,non-edible,12,0,0,1
+Premia Dhania Powder Deluxe,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Premia Dhania Powder Deluxe,Grocery,Grocery/Masala & Spices,1 kg,1000,non-edible,12,0,0,1
+Premia Emli,Grocery,Grocery/Masala & Spices,200 gm,200,non-edible,12,0,0,1
+Premia Emli,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Premia Rai Small,Grocery,Grocery/Masala & Spices,100 gm,100,non-edible,12,0,0,1
+Premia Rai Small,Grocery,Grocery/Masala & Spices,200 gm,200,non-edible,12,0,0,1
+Premia Rai Small,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Premia Poha Patla,Grocery,Grocery/Rice & Rice Products,500 gm,500,non-edible,13,0,0,1
+Premia Til White,Grocery,Grocery/Masala & Spices,100 gm,100,non-edible,12,0,0,1
+Premia Til White,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Premia Poha Basmati,Grocery,Grocery/Rice & Rice Products,500 gm,500,non-edible,13,0,0,1
+Premia Methi,Grocery,Grocery/Masala & Spices,100 gm,100,non-edible,12,0,0,1
+Premia Methi,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Premia Sabudana Small,Grocery,Grocery/Flours & Grains,500 gm,500,non-edible,11,0,0,1
+Kolhapuri Surati Kurmura,Grocery,Grocery/Rice & Rice Products,500 gm,500,non-edible,13,0,0,1
+Premia Dhania Jeera Mix Khandela,Grocery,Grocery/Masala & Spices,100 gm,100,non-edible,12,0,0,1
+Premia Dhania Jeera Mix Khandela,Grocery,Grocery/Masala & Spices,200 gm,200,non-edible,12,0,0,1
+Premia Dhania Jeera Mix Khandela,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Premia Dhania Jeera Mix Khandela,Grocery,Grocery/Masala & Spices,1 kg,1000,non-edible,12,0,0,1
+Laxmi Jaya Kurmura,Grocery,Grocery/Rice & Rice Products,500 gm,500,non-edible,13,0,0,1
+Premia Reshampatti Chilli Khandela,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Miki Maize (Makai) Poha,Grocery,Grocery/Rice & Rice Products,500 gm,500,non-edible,13,0,0,1
+Fortune Sunlite Refined Sunflower Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Fortune Sunlite Refined Sunflower Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Fortune Refined Sunflower Oil Tin,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+Sunrich Refined Sunflower Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Sunrich Refined Sunflower Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Gemini Refined Sunflower Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Gemini Refined Sunflower Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Gulab Sunflower Oil Jar,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+Sunday Refined Sunflower Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Swaad Refined Sunflower Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Swaad Refined Sunflower Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Fortune Sunlite Refined Sunflower Oil,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+Dhara Refined Sunflower Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Dhara Refined Sunflower Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Nature Fresh Refined Sunflower Oil Pouch,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Dhara Refined Sunflower Oil,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+Dalda Refined Sunflower Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Dalda Refined Sunflower Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Sundrop Superlite Advanced Sunflower Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Sundrop Superlite Advanced Sunflower Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Sunny Sun Lite Refined Sunflower Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Sunny Sun Lite Refined Sunflower Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Gulab Sunflower Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Gemini Refined Sunflower Oil - 15 L,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+Godrej Refined Sunflower Oil,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+Aadhaar Refined Sunflower Oil Pouch,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Saffola Gold Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Saffola Gold Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Saffola Active Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Saffola Active Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Saffola Gold Oil,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+Saffola Total Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Saffola Active Oil,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+Fortune Xpert Blended Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Fortune Xpert Blended Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Hudson Canola Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Svity Kolam Refined Rice Bran Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Fortune Rice Bran Health Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Fortune Rice Bran Health Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Premia Refined Rice Bran Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Fortune Rice Bran Health Oil,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+Riso Ricebran Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Riso Ricebran Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Dhara Refined Rice Bran Oil,Grocery,Cooking Oil,5  L,5000,non-edible,2,0,0,1
+Dhara Refined Rice Bran Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Ricela Refined Rice Bran Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Ricela Refined Rice Bran Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Gemini Rice Bran Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Gemini Rice Bran Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Dhara Life Refined Rice Bran Oil Jar,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+Gulab Filtered Groundnut Oil,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+Guinea Filtered Groundnut Oil,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+Dhara Filtered Groundnut Oil Pouch,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Dhara Filtered Groundnut Oil Pouch,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+RRO Primio Gold Filtered Groundnut Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+RRO Primio Gold Filtered Groundnut Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Gulab Groundnut Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Gulab Groundnut Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+RRO Primio Refined Groundnut Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+RRO Primio Refined Groundnut Oil,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+RRO Primio Gold Filtered Groundnut Oil,Grocery,Cooking Oil,15 L,15000,non-edible,2,0,0,1
+Gramiyaa Wood Cold Pressed Groundnut Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Guinea Lite Groundnut Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Gramiyaa Wood Cold Pressed Coconut Oil,Grocery,Cooking Oil,500 ml,500,non-edible,2,0,0,1
+Del Monte Extra Light Olive Oil,Grocery,Cooking Oil,2 L,2000,non-edible,2,0,0,1
+Borges Extra Light Olive Oil,Grocery,Cooking Oil,2 L,2000,non-edible,2,0,0,1
+Borges Extra Light Olive Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Figaro Olive Oil Tin,Grocery,Cooking Oil,200 ml,200,non-edible,2,0,0,1
+Figaro Olive Oil Tin,Grocery,Cooking Oil,500 ml,500,non-edible,2,0,0,1
+Figaro Olive Oil Tin,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Figaro Olive Oil Tin,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Borges Extra Virgin Olive Oil,Grocery,Cooking Oil,250 ml,250,non-edible,2,0,0,1
+Borges Extra Virgin Olive Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Leonardo Olive Pomace Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Bertolli Extra Light Tasting Olive Oil,Grocery,Cooking Oil,2 L,2000,non-edible,2,0,0,1
+Figaro Extra Virgin Olive Oil Bottle,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Figaro Extra Virgin Olive Oil Bottle,Grocery,Cooking Oil,500 ml,500,non-edible,2,0,0,1
+Borges Pure Olive Oil - Classic,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Leonardo Extra Light Olive Oil,Grocery,Cooking Oil,2 L,2000,non-edible,2,0,0,1
+Patanjali Kachi Ghani Mustard Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Fortune Kachi Ghani Mustard Oil Bottle,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Dhara Kachighani (Mustard) Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Dhara Kachighani (Mustard) Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Patanjali Kachi Ghani Mustard Oil Pouch,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Fortune Kachi Ghani Mustard Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Fortune Kachi Ghani Mustard Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Tez Mustard Kachchi Ghani Oil Bottle,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+RRO Premium Mustard Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+RRO Mastdil Premium Mustard Oil Bottle,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Tez Mustard Kachchi Ghani Oil Pouch,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Tez Mustard Kachchi Ghani Oil Pouch,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Gemini Refined Soyabean Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Swaad Soyabean Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Idhayam Gingelly Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+KLF Coconut Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+RRO Til Dil Premium Til Oil Bottle,Grocery,Cooking Oil,500 ml,500,non-edible,2,0,0,1
+RRO Til Dil Premium Til Oil Bottle,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Tilsona Til Oil Bottle,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Tilsona Til Oil Bottle,Grocery,Cooking Oil,500 ml,500,non-edible,2,0,0,1
+Fortune Plus Soya Health Oil,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Fortune Plus Soya Health Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Idhayam Sesame Oil Bottle,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Fortune Xpert Pro Immunity Jar,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Fortune Xpert Pro Immunity Jar,Grocery,Cooking Oil,5 L,5000,non-edible,2,0,0,1
+Gramiyaa Wood Cold Pressed Sesame Oil,Grocery,Cooking Oil,500 ml,500,non-edible,2,0,0,1
+Fortune Raag Gold Refined Palm Oil,Grocery,Cooking Oil,1 L,1000,non-edible,2,0,0,1
+Amul Pure Ghee Pouch,Grocery,Ghee & Vanaspati,500 ml,500,non-edible,9,0,0,1
+Amul Pure Ghee Pouch,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Gowardhan Pure Cow Ghee Pouch,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Amul Cow Ghee Pouch,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Aabad Cow Ghee Pouch,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Mother Dairy Pure Cow Ghee,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Sagar Pure Ghee Pouch,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Prabhat Dairy Cow Ghee Pouch,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Chitale Dairy Cow Ghee Box,Grocery,Ghee & Vanaspati,500 ml,500,non-edible,9,0,0,1
+Chitale Dairy Cow Ghee Box,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Gowardhan Pure Cow Ghee Jar,Grocery,Ghee & Vanaspati,200 ml,200,non-edible,9,0,0,1
+Gowardhan Pure Cow Ghee Jar,Grocery,Ghee & Vanaspati,500 ml,500,non-edible,9,0,0,1
+Gowardhan Pure Cow Ghee Jar,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Dynamix Cow Ghee Pouch,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Govind Pure Ghee Pouch,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Amul Pure Ghee Tin,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Amul Pure Ghee Tin,Grocery,Ghee & Vanaspati,5 L,5000,non-edible,9,0,0,1
+Aabad Desi Ghee Pouch,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Chitale Dairy Ghee Box,Grocery,Ghee & Vanaspati,500 ml,500,non-edible,9,0,0,1
+Chitale Dairy Ghee Box,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Sagar Pure Ghee Tin,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Aashirvaad Svasti Pure Cow Ghee Pouch,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Parsi Dairy Farm Cow Ghee Jar,Grocery,Ghee & Vanaspati,500 ml,500,non-edible,9,0,0,1
+Dynamix Cow Ghee Jar,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Dynamix Cow Ghee Jar,Grocery,Ghee & Vanaspati,500 ml,500,non-edible,9,0,0,1
+Dynamix Cow Ghee Jar,Grocery,Ghee & Vanaspati,200 ml,200,non-edible,9,0,0,1
+Aabad Cow Ghee Jar,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Dynamix Cow Ghee Tin,Grocery,Ghee & Vanaspati,5 L,5000,non-edible,9,0,0,1
+Parsi Dairy Farm Buffalo Ghee Jar,Grocery,Ghee & Vanaspati,500 ml,500,non-edible,9,0,0,1
+Organic India Organic Cow Ghee,Grocery,Ghee & Vanaspati,500 ml,500,non-edible,9,0,0,1
+Dalda Vanaspati,Grocery,Ghee & Vanaspati,500 ml,500,non-edible,9,0,0,1
+Dalda Vanaspati,Grocery,Ghee & Vanaspati,1 L,1000,non-edible,9,0,0,1
+Aashirvaad Superior MP Wheat Atta,Grocery,Flours & Grains,5 kg,5000,healthy,8,0,1,0
+Aashirvaad Superior MP Wheat Atta,Grocery,Flours & Grains,10 kg,10000,healthy,8,0,1,0
+Aashirvaad Select Sharbati Wheat Atta,Grocery,Flours & Grains,5 kg,5000,healthy,8,0,1,0
+Aashirvaad Multigrain Atta,Grocery,Flours & Grains,5 kg,5000,healthy,8,0,1,0
+Pillsbury Chakki Fresh Wheat Atta,Grocery,Flours & Grains,5 kg,5000,healthy,8,0,1,0
+Pillsbury Chakki Fresh Wheat Atta,Grocery,Flours & Grains,10 kg,10000,healthy,8,0,1,0
+Fortune Chakki Fresh Wheat Atta,Grocery,Flours & Grains,10 kg,10000,healthy,8,0,1,0
+Nature Fresh Sampoorna Superior MP Wheat Atta,Grocery,Flours & Grains,5 kg,5000,healthy,8,0,1,0
+Nature Fresh Sampoorna Superior MP Wheat Atta,Grocery,Flours & Grains,10 kg,10000,healthy,8,0,1,0
+Taste For Life MP Sihore Chapati Fine Wheat Atta,Grocery,Flours & Grains,1 kg,1000,healthy,8,0,1,0
+Taste For Life MP Sihore Chapati Fine Wheat Atta,Grocery,Flours & Grains,5 kg,5000,healthy,8,0,1,0
+Wheat Flour Chakki Atta,Grocery,Flours & Grains,5 kg,5000,healthy,8,0,1,0
+Pillsbury Multi Grain Atta,Grocery,Flours & Grains,5 kg,5000,healthy,8,0,1,0
+24 Mantra Organic Whole Wheat Atta,Grocery,Flours & Grains,5 Kg,5000,healthy,8,0,1,0
+24 Mantra Organic Whole Wheat Atta,Grocery,Flours & Grains,1 kg,1000,healthy,8,0,1,0
+Rice Atta,Grocery,Flours & Grains,1 kg,1000,healthy,8,0,1,0
+Organic Tattva Organic Wheat Flour,Grocery,Flours & Grains,5 kg,5000,healthy,8,0,1,0
+24 Mantra Organic Ragi Flour,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+24 Mantra Organic Jowar Flour,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Taste For Life Premium Khapli Wheat Atta,Grocery,Flours & Grains,1 kg,1000,healthy,8,0,1,0
+Wheat Lokwan (Lokvan),Grocery,Grocery/Flours & Grains,5 kg,5000,non-edible,11,0,0,1
+Wheat Lokwan (Lokvan),Grocery,Grocery/Flours & Grains,10 kg,10000,non-edible,11,0,0,1
+Nachni,Grocery,Grocery/Flours & Grains,1 kg,1000,non-edible,11,0,0,1
+Satyam Sabudana,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Bajari,Grocery,Grocery/Flours & Grains,1 kg,1000,non-edible,11,0,0,1
+Organic India Quinoa,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Satyam Lapsi Medium,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Pink Harvest Farms White Quinoa,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Rava,Grocery,Grocery/Flours & Grains,500 gm,500,non-edible,11,0,0,1
+Rava,Grocery,Grocery/Flours & Grains,1 kg,1000,non-edible,11,0,0,1
+Besan,Grocery,Grocery/Flours & Grains,500 gm,500,non-edible,11,0,0,1
+Besan,Grocery,Grocery/Flours & Grains,1 kg,1000,non-edible,11,0,0,1
+Fortune Chana Dal Besan,Grocery,Flours & Grains,1 kg,1000,healthy,8,0,1,0
+Satyam Rava,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Lapsi Rava Small Daliya,Grocery,Grocery/Flours & Grains,500 gm,500,non-edible,11,0,0,1
+Lapsi Rava / Daliya,Grocery,Grocery/Flours & Grains,500 gm,500,non-edible,11,0,0,1
+Tata Sampann Fine Besan,Grocery,Flours & Grains,1 Kg,1000,healthy,8,0,1,0
+Rice Atta,Grocery,Grocery/Flours & Grains,500 gm,500,non-edible,11,0,0,1
+Jawari Atta,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Bhagirathi Jowar Atta,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Satyam Besan,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Blue Bird Corn Flour,Grocery,Flours & Grains,200 gm,200,healthy,8,0,1,0
+Blue Bird Corn Flour,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Satyam Maida,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Nachni Atta,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Satyam Rajgira Flour,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Bhagirathi Nachani (Ragi) Atta,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Bhagirathi Rice Atta,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Bhagirathi Bajra Atta,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Organic Tattva Suji,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Makai Atta,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Bhagirathi Makai (Corn) Flour,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Satyam Rice Atta (Flour),Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Bhagirathi Multigrain Bhakari Atta,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+Bhagirathi Modak Atta,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+K-Pra Ustav Modak Flour,Grocery,Flours & Grains,500 gm,500,healthy,8,0,1,0
+India Gate Basmati Rice Rozana,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+India Gate Basmati Rice Rozana,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Daawat Heritage Daily Feast Tukda Basmati Rice,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Daawat Devaaya Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Daawat Devaaya Basmati Rice,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Daawat Rozana Super Basmati Rice,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+India Gate Mini Mogra (Broken) Basmati Rice,Grocery,Rice & Rice Products,10 kg,10000,healthy,17,0,1,0
+India Gate Super Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+India Gate Super Basmati Rice,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Basmati Rice Mogra,DMart Grocery,DMart Grocery/Rice & Rice Products,5 kg,5000,non-edible,4,0,0,1
+Basmati Rice Mogra,DMart Grocery,DMart Grocery/Rice & Rice Products,10 kg,10000,non-edible,4,0,0,1
+Fortune Everyday Hamesha Basmati Rice,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Daawat Super Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Daawat Super Basmati Rice,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+India Gate Basmati Rice - Mini Mogra-II - Kanki,Grocery,Rice & Rice Products,10 kg,10000,healthy,17,0,1,0
+Daawat Rozana Gold Basmati Rice,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Rice Pulav Basmati,DMart Grocery,DMart Grocery/Rice & Rice Products,5 kg,5000,non-edible,4,0,0,1
+India Gate Basmati Rice - Mogra,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+India Gate Basmati Rice - Mogra,Grocery,Rice & Rice Products,10 kg,10000,healthy,17,0,1,0
+Basmati Rice Mini Mogra (Broken),DMart Grocery,DMart Grocery/Rice & Rice Products,10 kg,10000,non-edible,4,0,0,1
+India Gate Basmati Rice - Classic,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+India Gate Basmati Rice - Classic,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Daawat Biryani Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Daawat Biryani Basmati Rice,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Basmati Rice Broken (Kani),Grocery,Rice & Rice Products,10 kg,10000,healthy,17,0,1,0
+Rice Basmati,DMart Grocery,DMart Grocery/Rice & Rice Products,1 kg,1000,non-edible,4,0,0,1
+Fortune Biryani Special Basmati Rice,Grocery,Rice & Rice Products,5 Kg,5000,healthy,17,0,1,0
+India Gate Basmati Rice - Tibar,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+India Gate Basmati Rice - Tibar,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Daawat Pulav Basmati Rice,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Daawat Pulav Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Daawat Pulav Basmati Rice,Grocery,Rice & Rice Products,500 gm,500,healthy,17,0,1,0
+Daawat Sehat Mini Mogra (Broken) Basmati Rice,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Daawat Sehat Mini Mogra (Broken) Basmati Rice,Grocery,Rice & Rice Products,10 kg,10000,healthy,17,0,1,0
+Rice Basmati Tukda,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Biryani Rice,DMart Grocery,DMart Grocery/Rice & Rice Products,5 kg,5000,non-edible,4,0,0,1
+Devaaya Biryani Basmati Rice,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Daawat Brown Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Rice Tibar Basmati,DMart Grocery,DMart Grocery/Rice & Rice Products,5 kg,5000,non-edible,4,0,0,1
+India Gate Basmati Rice - Dubar,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+India Gate Basmati Rice - Dubar,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Daawat Traditional Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Daawat Sehat Mogra Basmati Rice,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Daawat Sehat Mogra Basmati Rice,Grocery,Rice & Rice Products,10 kg,10000,healthy,17,0,1,0
+India Gate Regular Choice Basmati Rice,Grocery,Rice & Rice Products,5 Kg,5000,healthy,17,0,1,0
+Rice Basmati Wand : 5 kgs,DMart Grocery,DMart Grocery/Rice & Rice Products,5 kg,5000,non-edible,4,0,0,1
+Devaaya Biryani Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Mogra Basmati Rice,DMart Grocery,DMart Grocery/Rice & Rice Products,1 kg,1000,non-edible,4,0,0,1
+Lal Qilla Traditional Basmati Rice,Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Lal Qilla Traditional Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Lal Qilla Super Silverline Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Lal Qilla Tibar Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Lal Qilla Dubar Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Lal Qilla Classic Whiteline Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Lal Qilla Brown Basmati Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Wada Kolam Rice,DMart Grocery,DMart Grocery/Rice & Rice Products,10 kg,10000,non-edible,4,0,0,1
+Wada Kolam Rice,DMart Grocery,DMart Grocery/Rice & Rice Products,1 kg,1000,non-edible,4,0,0,1
+Wada Kolam Rice,DMart Grocery,DMart Grocery/Rice & Rice Products, 5 kg,5000,non-edible,4,0,0,1
+Silky Kolam Rice,DMart Grocery,DMart Grocery/Rice & Rice Products, 5 kg,5000,non-edible,4,0,0,1
+Silky Kolam Rice,DMart Grocery,DMart Grocery/Rice & Rice Products,1 kg,1000,non-edible,4,0,0,1
+HMT Kolam Rice,DMart Grocery,DMart Grocery/Rice & Rice Products,1 kg,1000,non-edible,4,0,0,1
+HMT Kolam Rice,DMart Grocery,DMart Grocery/Rice & Rice Products,5 kg,5000,non-edible,4,0,0,1
+HMT Kolam Rice,DMart Grocery,DMart Grocery/Rice & Rice Products,10 kg,10000,non-edible,4,0,0,1
+Eco Kolam Jirasar Sorted Rice,DMart Grocery,DMart Grocery/Rice & Rice Products, 5 kg,5000,non-edible,4,0,0,1
+Eco Kolam Jirasar Sorted Rice,DMart Grocery,DMart Grocery/Rice & Rice Products,10 kg,10000,non-edible,4,0,0,1
+24 Mantra Organic Sonamasuri Brown Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+India Gate Brown Rice,Grocery,Rice & Rice Products,1 kg,1000,healthy,17,0,1,0
+Tata Sampann Poha,Grocery,Rice & Rice Products,500 gm,500,healthy,17,0,1,0
+Satyam Poha Jada,Grocery,Rice & Rice Products,500 gm,500,healthy,17,0,1,0
+24 Mantra Organic Red Poha,Grocery,Rice & Rice Products,500 gm,500,healthy,17,0,1,0
+24 Mantra Organic Poha,Grocery,Rice & Rice Products,500 gm,500,healthy,17,0,1,0
+Satyam Poha (Powa) Patla,Grocery,Rice & Rice Products,500 gm,500,healthy,17,0,1,0
+Organic Tattva Red Poha,Grocery,Rice & Rice Products,500 gm,500,healthy,17,0,1,0
+Organic Tattva Poha,Grocery,Rice & Rice Products,500 gm,500,healthy,17,0,1,0
+Ambemohar Rice,Grocery,Grocery/Rice & Rice Products,5 kg,5000,non-edible,13,0,0,1
+Idli Rice,Grocery,Grocery/Rice & Rice Products,1 kg,1000,non-edible,13,0,0,1
+Red Rice,Grocery,Grocery/Rice & Rice Products,1 kg,1000,non-edible,13,0,0,1
+Long Grain Rice,Grocery,Rice & Rice Products,10 kg,10000,healthy,17,0,1,0
+IR Boiled Rice,Grocery,Grocery/Rice & Rice Products,1 kg,1000,non-edible,13,0,0,1
+Masoori Boiled Rice,Grocery,Grocery/Rice & Rice Products,1 kg,1000,non-edible,13,0,0,1
+Satyam Sama,Grocery,Rice & Rice Products,500 gm,500,healthy,17,0,1,0
+Tamarind,Grocery,Masala & Spices,500 gm,500,healthy,15,0,1,0
+Satyam Tamarind,Grocery,Masala & Spices,500 gm,500,healthy,15,0,1,0
+Satyam Tamarind,Grocery,Masala & Spices,200 gm,200,healthy,15,0,1,0
+Pink Harvest Farms Chia Seeds,Grocery,Masala & Spices,350 gm,350,healthy,15,0,1,0
+Pink Harvest Farms Tri-Colour Quinoa,Grocery,Masala & Spices,350 gm,350,healthy,15,0,1,0
+Everest Tikhalal Chilli Powder,Grocery,Masala & Spices,100 gm,100,healthy,15,0,1,0
+Everest Tikhalal Chilli Powder,Grocery,Masala & Spices,200 gm,200,healthy,15,0,1,0
+Everest Tikhalal Chilli Powder,Grocery,Masala & Spices,500 gm,500,healthy,15,0,1,0
+Everest Turmeric Powder,Grocery,Masala & Spices,200 gm,200,healthy,15,0,1,0
+Everest Turmeric Powder,Grocery,Masala & Spices,500 gm,500,healthy,15,0,1,0
+Everest Coriander Powder,Grocery,Masala & Spices,200 gm,200,healthy,15,0,1,0
+Everest Coriander Powder,Grocery,Masala & Spices,500 gm,500,healthy,15,0,1,0
+Premia Red Chilli Powder,Grocery,Grocery/Masala & Spices,100 gm,100,non-edible,12,0,0,1
+Premia Red Chilli Powder,Grocery,Grocery/Masala & Spices,200 gm,200,non-edible,12,0,0,1
+Premia Red Chilli Powder,Grocery,Grocery/Masala & Spices,500 gm,500,non-edible,12,0,0,1
+Premia Red Chilli Powder,Grocery,Grocery/Masala & Spices,1 kg,1000,non-edible,12,0,0,1
+Kubal SP Sunday Malvani Masala,Grocery,Masala & Spices,1 kg,1000,healthy,15,0,1,0
+Kubal Chilli Powder,Grocery,Masala & Spices,500 gm,500,healthy,15,0,1,0
+Kubal Turmeric Powder,Grocery,Masala & Spices,500 gm,500,healthy,15,0,1,0
+Kubal Coriander Powder,Grocery,Masala & Spices,500 gm,500,healthy,15,0,1,0
+Mother's Recipe Rozaana Ginger & Garlic Paste,Grocery,Masala & Spices,700 gm,700,healthy,15,0,1,0
+Christopher Cocoa Baking Soda All Purpose,Grocery,Masala & Spices,250 gm,250,healthy,15,0,1,0
+Real Thai Coconut Milk,Grocery,Masala & Spices,250 ml,250,healthy,15,0,1,0
+Tata Salt,Grocery,Salt / Sugar / Jaggery,1 kg,1000,healthy,18,0,1,0
+Puro Healthy Salt,Grocery,Salt / Sugar / Jaggery,1 Kg,1000,healthy,18,0,1,0
+Tata Salt Lite,Grocery,Salt / Sugar / Jaggery,1 kg,1000,healthy,18,0,1,0
+Tata Rock Salt Powder Pouch,Grocery,Salt / Sugar / Jaggery,1 Kg,1000,healthy,18,0,1,0
+Tata Rock Salt Powder Pouch,Grocery,Salt / Sugar / Jaggery,500 gm,500,healthy,18,0,1,0
+Aashirvaad Salt,Grocery,Salt / Sugar / Jaggery,1 kg,1000,healthy,18,0,1,0
+Rock Salt,Grocery,Salt / Sugar / Jaggery,1 kg,1000,healthy,18,0,1,0
+Tata SuperLite Salt : 1 kg,Grocery,Salt / Sugar / Jaggery,1 kg,1000,healthy,18,0,1,0
+Shree Annapurna Jaggery Powder,DMart Grocery,DMart Grocery,1 Kg,1000,non-edible,3,0,0,1
+GB Surti Kolam Sorted Rice,DMart Grocery,Rice & Rice Products,5 kg,5000,healthy,17,0,1,0
+Amul Butter,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Amul Butter,Dairy & Beverages,Dairy,100 gm,100,healthy,5,0,1,0
+Amul Butter,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Society Tea,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+Society Tea,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Society Tea,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Wagh Bakri Premium Leaf Tea Pouch,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+Wagh Bakri Premium Leaf Tea Pouch,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Wagh Bakri Premium Leaf Tea Pouch,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Brooke Bond Red Label Tea,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Brooke Bond Red Label Tea,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Brooke Bond Red Label Tea,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+Tata Tea Agni,Dairy & Beverages,Beverages,1.5 kg,1500,junk,1,1,0,0
+Tata Tea Agni,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Tata Tea Agni,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Tea,Dairy & Beverages,Beverages,250 gm,250,healthy,1,1,0,0
+Brooke Bond Red Label Natural Care Tea,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Brooke Bond Red Label Natural Care Tea,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Brooke Bond Red Label Natural Care Tea,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+Girnar Royal Cup Tea,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Girnar Royal Cup Tea,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Girnar Royal Cup Tea,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+Tata Tea Premium,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+Tata Tea Premium,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Tata Tea Premium,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Taj Mahal Tea,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+Taj Mahal Tea,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Tata Tea Gold,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+Tata Tea Gold,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Tata Tea Gold,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Society Masala Tea,Dairy & Beverages,Beverages,100 gm,100,junk,1,1,0,0
+Society Masala Tea,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Wagh Bakri Navchetan Tea,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Nutralite Fat Spread,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Brooke Bond Taaza Tea,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Mother Dairy Pasteurized Butter,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Delicious Fat Spread,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Tata Tea Gold Care,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Society Masala Flavour Tea Pouch,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Tata Tea Teaveda,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+Nutralite Fat Spread UKE,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Girnar Jumbo Gulabi CTC Leaf Tea,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Goodricke Super Cup Tea,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Lipton Pure & Light Green Tea,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+Amul Lite Milk Fat Bread Spread,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+President Premium Butter Salted,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Tetley Long Leaf Green Tea Powder,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+Arbor Treat Assam CTC Tea,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+President Premium Butter Unsalted,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Society Premium Tea,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Society Masala Tea Pouch,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+Amul Taaza Toned Milk,Dairy & Beverages,Dairy,200 ml,200,healthy,5,0,1,0
+Amul Taaza Toned Milk,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Nandini Good Life Toned Milk,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Amul Gold Homogenised Standardised Milk,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Go Double Toned Milk,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Amul Slim-n-Trim Skimmed Milk,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Nestlé A+ Nourish Toned Milk,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Epigamia Milkshake Chocolate,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Cavin's Chocolate Milkshake,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Cavin's Vanilla Milkshake,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Epigamia Milkshake Strawberry,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Sofit Soya Drink Naturally Sugar Free,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Raw Pressery Almond Milk Plain (Unsweetened),Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Sofit Soya Drink Chocolate,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Amul Taaza Toned Milk,Dairy & Beverages,Dairy,1 L x 12 U,1000,healthy,5,0,1,0
+Sofit Soya Drink Vanilla,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Amul Basundi Kesar Elaichi,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Sofit Soya Drink Kesar Pista,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Amul Cheese Chiplets ,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Amul Cheese Chiplets ,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Amul Cheese Chiplets ,Dairy & Beverages,Dairy,1 kg,1000,healthy,5,0,1,0
+Amul Processed Cheese,Dairy & Beverages,Dairy,1 kg,1000,healthy,5,0,1,0
+Gowardhan Cheese Slice - 28 Slices,Dairy & Beverages,Dairy,476 gm,476,healthy,5,0,1,0
+Amul Processed Cheese Block,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Amul Processed Cheese Block,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Amul Cheese Slices,Dairy & Beverages,Dairy,100 gm,100,healthy,5,0,1,0
+Amul Cheese Slices,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Amul Cheese Slices,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+Amul Cheese Slices,Dairy & Beverages,Dairy,750 gm,750,healthy,5,0,1,0
+Britannia Cheese Slices,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+Britannia Cheese Slices,Dairy & Beverages,Dairy,663 gm,663,healthy,5,0,1,0
+Britannia Cheese Slices,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Amul Mozzarella Diced Pizza Cheese (Frozen),Dairy & Beverages,Dairy,1 kg,1000,healthy,5,0,1,0
+Gowardhan Processed Cheese,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+Gowardhan Processed Cheese,Dairy & Beverages,Dairy,1 kg,1000,healthy,5,0,1,0
+Britannia Cheese Block,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+Britannia Cheese Cubes,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Britannia Cheese Cubes,Dairy & Beverages,Dairy,600 gm,600,healthy,5,0,1,0
+Britannia Cheeza Pizza Cheese,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Britannia Cheeza Pizza Cheese,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+Amul Easy To Grate Processed Cheese,Dairy & Beverages,Dairy,1 kg,1000,healthy,5,0,1,0
+D'lecta Cheese Slices,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+D'lecta Cheese Slices,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Amul Diced Blend Cheese,Dairy & Beverages,Dairy,1 kg,1000,healthy,5,0,1,0
+D'lecta Shredded Mozzarella Cheese,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+D'lecta Cream Cheese,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+D'lecta Cream Cheese,Dairy & Beverages,Dairy,150 gm,150,healthy,5,0,1,0
+Britannia Diced Pizza Cheese Blend,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Britannia Diced Pizza Cheese Blend,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Coffee,Dairy & Beverages,Beverages,50 gm,50,junk,1,1,0,0
+Nescafé Classic Coffee,Dairy & Beverages,Beverages,200 gm,200,junk,1,1,0,0
+Nescafé Classic Coffee,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Nestlé Everyday Dairy Whitener,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Nestlé Everyday Dairy Whitener,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+Nestlé Everyday Dairy Whitener,Dairy & Beverages,Dairy,1 kg,1000,healthy,5,0,1,0
+Gowardhan Paneer Classic Block,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Gowardhan Paneer Classic Block,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Amul Masti Spiced Buttermilk,Dairy & Beverages,Dairy,180 ml,180,healthy,5,0,1,0
+Amul Masti Spiced Buttermilk,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Amul Fresh Cream,Dairy & Beverages,Dairy,250 ml,250,healthy,5,0,1,0
+Amul Fresh Cream,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Amul Mithai Mate Sweetened Condensed Milk,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+Nestlé Milkmaid,Dairy & Beverages,Dairy,380 gm,380,healthy,5,0,1,0
+Epigamia Milkshake Chocolate,Dairy & Beverages,Dairy,180 ml,180,healthy,5,0,1,0
+Amul Malai Paneer (Frozen),Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Amul Malai Paneer (Frozen),Dairy & Beverages,Dairy,1 Kg,1000,healthy,5,0,1,0
+Amul Frozen Rasmalai,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Epigamia Milkshake Strawberry,Dairy & Beverages,Dairy,180 ml,180,healthy,5,0,1,0
+Amul Rose Lassi,Dairy & Beverages,Dairy,250 ml,250,healthy,5,0,1,0
+Amul Lassi Rose Flavour,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+Cavin's Strawberry Milkshake,Dairy & Beverages,Dairy,1 L,1000,healthy,5,0,1,0
+D'lecta Dairy Whipping Cream,Dairy & Beverages,Dairy,1 kg,1000,healthy,5,0,1,0
+Amul Kesar Elaichi Basundi,Dairy & Beverages,Dairy,250 ml,250,healthy,5,0,1,0
+Cadbury Bournvita Health Drink Refill,Dairy & Beverages,Beverages,750 gm,750,junk,1,1,0,0
+Cadbury Bournvita Health Drink Refill,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Cadbury Bournvita Health Drink Refill,Dairy & Beverages,Beverages,75 gm,75,junk,1,1,0,0
+Cadbury Bournvita Health Drink Refill,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Pediasure Nutritional Powder - Premium Chocolate Flavour,Dairy & Beverages,Beverages,400 gm,400,junk,1,1,0,0
+Pediasure Nutritional Powder - Premium Chocolate Flavour,Dairy & Beverages,Beverages,750 gm,750,junk,1,1,0,0
+Pediasure Nutritional Powder - Premium Chocolate Flavour,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Protinex Original Health Drink,Dairy & Beverages,Beverages,400 gm,400,junk,1,1,0,0
+Protinex Chocolate Flavour Health Drink Tin,Dairy & Beverages,Beverages,400 gm,400,junk,1,1,0,0
+Cadbury Bournvita 5 Star Magic Health Drink,Dairy & Beverages,Beverages,750 gm,750,junk,1,1,0,0
+Protinex Original,Dairy & Beverages,Beverages,750 gm,750,junk,1,1,0,0
+Horlicks Health & Nutrition Drink Refill - Chocolate,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Horlicks Health & Nutrition Drink Refill - Chocolate,Dairy & Beverages,Beverages,750 gm,750,junk,1,1,0,0
+Amul Pro Whey Protein Malt Chocolate Drink,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Cadbury Bournvita Jar,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Horlicks Health & Nutrition Drink Refill - Classic Malt,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Horlicks Health & Nutrition Drink Refill - Classic Malt,Dairy & Beverages,Beverages,750 gm,750,junk,1,1,0,0
+Horlicks Health & Nutrition Drink Refill - Classic Malt,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Complan Chocolate Health Drink,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Complan Chocolate Health Drink,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Protinex Vanilla Flavour,Dairy & Beverages,Beverages,400 gm,400,junk,1,1,0,0
+Pediasure Vanilla Delight,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Women's Horlicks Health & Nutrition Drink - Chocolate,Dairy & Beverages,Beverages,400 gm,400,junk,1,1,0,0
+Women's Horlicks Health & Nutrition Drink Jar - Caramel,Dairy & Beverages,Beverages,400 gm,400,junk,1,1,0,0
+Boost Refill Pack,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Britannia Thick Dahi,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+Amul Masti Dahi,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+ID Creamy Thick Curd - Dahi,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+Pediasure Nutritional Powder - Vanilla Delight Flavour,Dairy & Beverages,Beverages,400 gm,400,junk,1,1,0,0
+Pediasure Nutritional Powder - Vanilla Delight Flavour,Dairy & Beverages,Beverages,750 gm,750,junk,1,1,0,0
+Ensure Nutrition Powder - Vanilla Flavour,Dairy & Beverages,Beverages,400 gm,400,junk,1,1,0,0
+Horlicks Classic Malt Jar,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Complan Kesar Badam Health Drink,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Horlicks Chocolate Delight Jar,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Protinex Health Drink Chocolate Flavour Tin,Dairy & Beverages,Beverages,250 gm,250,junk,1,1,0,0
+Horlicks Chocolate Delight Health Drink Refill,Dairy & Beverages,Beverages,500 gm,500,junk,1,1,0,0
+Hershey's Natural Unsweetened Cocoa Powder,Dairy & Beverages,Beverages,225 gm,225,junk,1,1,0,0
+Amul Premium Dahi,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+Mother Dairy Mishti Doi,Dairy & Beverages,Dairy,400 gm,400,healthy,5,0,1,0
+Gaia Sport Whey Irish Chocolate Protein,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Hershey's Milk Booster Chocolate Flavor,Dairy & Beverages,Beverages,450 gm,450,junk,1,1,0,0
+Mirinda Orange,Dairy & Beverages,Beverages,2.25 L,2250,junk,1,1,0,0
+Thums Up,Dairy & Beverages,Beverages,600 ml,600,junk,1,1,0,0
+Thums Up,Dairy & Beverages,Beverages,1.75 L,1750,junk,1,1,0,0
+Sprite,Dairy & Beverages,Beverages,1.75 L,1750,junk,1,1,0,0
+Sprite,Dairy & Beverages,Beverages,600 ml,600,junk,1,1,0,0
+Pepsi,Dairy & Beverages,Beverages,2.25 L,2250,junk,1,1,0,0
+Fanta Orange Flavour,Dairy & Beverages,Beverages,2.25 L,2250,junk,1,1,0,0
+Bisleri Club Soda,Dairy & Beverages,Beverages,750 ml,750,junk,1,1,0,0
+7 Up,Dairy & Beverages,Beverages,2.25 L,2250,junk,1,1,0,0
+Coca-Cola,Dairy & Beverages,Beverages,1.75 L,1750,junk,1,1,0,0
+Limca,Dairy & Beverages,Beverages,2.25 L,2250,junk,1,1,0,0
+Xotik Jeeru Jeera Masala Drink,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Xotik Jeeru Jeera Masala Drink,Dairy & Beverages,Beverages,2 L,2000,junk,1,1,0,0
+Diet Coke Tin,Dairy & Beverages,Beverages,300 ml,300,junk,1,1,0,0
+Duke's Club Soda,Dairy & Beverages,Beverages,750 ml,750,junk,1,1,0,0
+Budweiser Green Apple Non-Alcoholic Beer Can,Dairy & Beverages,Beverages,330 ml,330,junk,1,1,0,0
+Pepsi,Dairy & Beverages,Beverages,750  ml,750,junk,1,1,0,0
+Cravova Classic Mojito,Dairy & Beverages,Beverages,300 ml,300,junk,1,1,0,0
+Coolberg Cranberry Non-Alcoholic Beer,Dairy & Beverages,Beverages,330 ml,330,junk,1,1,0,0
+Cravova Peach Mojito,Dairy & Beverages,Beverages,300 ml,300,junk,1,1,0,0
+Cravova Green Apple Mojito,Dairy & Beverages,Beverages,300 ml,300,junk,1,1,0,0
+Bisleri Limonata - With Lime Juice,Dairy & Beverages,Beverages,600 ml,600,junk,1,1,0,0
+Coke Zero Sugar,Dairy & Beverages,Beverages,300 ml,300,junk,1,1,0,0
+Cravova Watermelon Mojito,Dairy & Beverages,Beverages,300 ml,300,healthy,1,0,1,0
+Coolberg Peach Non-Alcoholic Beer,Dairy & Beverages,Beverages,330 ml,330,junk,1,1,0,0
+Cravova Fresh Lemonade,Dairy & Beverages,Beverages,300 ml,300,junk,1,1,0,0
+Coca-Cola Tin,Dairy & Beverages,Beverages,300 ml,300,junk,1,1,0,0
+Coolberg Ginger Non-Alcoholic Beer,Dairy & Beverages,Beverages,330 ml,330,junk,1,1,0,0
+Bisleri Spyci - Masala Maar Ke,Dairy & Beverages,Beverages,600 ml,600,junk,1,1,0,0
+Coolberg Malt Non-Alcoholic Beer,Dairy & Beverages,Beverages,330 ml,330,junk,1,1,0,0
+Schweppes Indian Tonic Water Tin,Dairy & Beverages,Beverages,300 ml,300,healthy,1,0,1,0
+Schweppes Original Ginger Ale,Dairy & Beverages,Beverages,300 ml,300,junk,1,1,0,0
+Xotik Jeeru Jeera Masala Drink,Dairy & Beverages,Beverages,300 ml,300,junk,1,1,0,0
+O'cean Fruit Drink - Peach & Passion Fruit Flavour,Dairy & Beverages,Beverages,500 ml,500,junk,1,1,0,0
+Maaza Mango Drink,Dairy & Beverages,Beverages,1.2 L,1200,junk,1,1,0,0
+Slice Mango Drink,Dairy & Beverages,Beverages,1.75 L,1750,junk,1,1,0,0
+Real Mixed Fruit,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Minute Maid Pulpy Orange Juice,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Frooti Mango Drink,Dairy & Beverages,Beverages,2 L,2000,junk,1,1,0,0
+Mango Merry Mango Drink,Dairy & Beverages,Beverages,1.2 L,1200,junk,1,1,0,0
+Mango Merry Mango Drink,Dairy & Beverages,Beverages,2 L,2000,junk,1,1,0,0
+Real Fruit Power Orange,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+B Natural Mixed Fruit Beverage,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Real Fruit Power Litchi,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+B Natural Guava Fruit Beverage,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Real Fruit Power Guava,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Tropicana Mixed Fruit Delight,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+B Natural Litchi Fruit Beverage,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Chitale Full Cream Shrikhand Amba,Dairy & Beverages,Dairy,250 gm,250,healthy,5,0,1,0
+Chitale Full Cream Shrikhand Amba,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Paper Boat Aamras,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Real Fruit Power Apple,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Paper Boat Aamras,Dairy & Beverages,Beverages,200 ml,200,junk,1,1,0,0
+Real Fruit Power Masala Guava,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Real Fruit Power Masala Mixed Fruit,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Amul Amrakhand,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Amul Amrakhand,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Amul Shrikhand Badam Pista,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Amul Shrikhand Badam Pista,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Tropicana Apple Delight,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Tropicana Orange Delight,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Tropicana Litchi Delight,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Amul Shrikhand Mango,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Amul Shrikhand Elaichi,Dairy & Beverages,Dairy,200 gm,200,healthy,5,0,1,0
+Amul Shrikhand Elaichi,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Chitale Full Cream Badam Pista Shrikhand,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Chitale Full Cream Badam Pista Shrikhand,Dairy & Beverages,Dairy,250 gm,250,healthy,5,0,1,0
+Raw Pressery Orange Juice,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Amul Shrikhand Kesar,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Paper Boat Anar - 1 L,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Chitale Full Cream Keshar Shrikhand,Dairy & Beverages,Dairy,250 gm,250,healthy,5,0,1,0
+Chitale Full Cream Keshar Shrikhand,Dairy & Beverages,Dairy,500 gm,500,healthy,5,0,1,0
+Baidyanath Amla Juice,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Raw Pressery Pomegranate Juice,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Baidyanath Aloevera Juice,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Raw Pressery Sugarcane,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Baidyanath Karela Jamun Juice,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Baidyanath Giloy Juice,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+O'cean Pink Fruit Drink - Guava Flavour,Dairy & Beverages,Beverages,500 ml,500,junk,1,1,0,0
+Glucon-D Orange,Dairy & Beverages,Beverages,450 gm,450,junk,1,1,0,0
+Glucon-D Orange,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Glucon-D Nimbu Pani,Dairy & Beverages,Beverages,450 gm,450,junk,1,1,0,0
+Glucon-D Nimbu Pani,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+Monster Energy Drink Tin,Dairy & Beverages,Beverages,350 ml,350,junk,1,1,0,0
+Red Bull Energy Drink,Dairy & Beverages,Beverages,350 ml,350,junk,1,1,0,0
+Glucon-D Plain,Dairy & Beverages,Beverages,450 gm,450,junk,1,1,0,0
+Glucon-D Plain,Dairy & Beverages,Beverages,1 kg,1000,junk,1,1,0,0
+O'cean Natural Power Energy Drink,Dairy & Beverages,Beverages,250 ml,250,junk,1,1,0,0
+Chetran's Tofu,Dairy & Beverages,Dairy,250 gm,250,healthy,5,0,1,0
+Budweiser Beats Energy Drink,Dairy & Beverages,Beverages,250 ml,250,junk,1,1,0,0
+Red Bull Sugarfree,Dairy & Beverages,Beverages,250 ml,250,junk,1,1,0,0
+Rooh Afza,Dairy & Beverages,Beverages,750 ml,750,junk,1,1,0,0
+Mapro Coolz Rose Sharbat,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Guruji Kesaria Thandai,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Kokan Gem Kokam Syrup,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Mala's Rose Syrup,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Hershey's Chocolate Syrup,Dairy & Beverages,Beverages,623 gm,623,junk,1,1,0,0
+Hershey's Chocolate Syrup,Dairy & Beverages,Beverages,200 gm,200,junk,1,1,0,0
+Kokan Gem Kairi Panhe,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Mapro Cocktail Mixology Kit,Dairy & Beverages,Beverages,750 ml,750,junk,1,1,0,0
+Home Made Lemon Pudina Fruit Squash,Dairy & Beverages,Beverages,750 ml,750,junk,1,1,0,0
+Jimmy's Cocktails - Cosmopolitan Cocktail Mixer,Dairy & Beverages,Beverages,250 ml,250,junk,1,1,0,0
+Jimmy's Cocktails - Mango Chilli Mojito Cocktail Mixer,Dairy & Beverages,Beverages,250 ml,250,junk,1,1,0,0
+Jimmy's Cocktails - SOTB Cocktail Mixer,Dairy & Beverages,Beverages,250 ml,250,junk,1,1,0,0
+Jimmy's Cocktails - Margarita Cocktail Mixer,Dairy & Beverages,Beverages,250 ml,250,junk,1,1,0,0
+Jimmy's Cocktails - Whiskey Sour Cocktail Mixer,Dairy & Beverages,Beverages,250 ml,250,junk,1,1,0,0
+Home Made Real Variyali Syrup,Dairy & Beverages,Beverages,750 ml,750,junk,1,1,0,0
+Jimmy's Cocktails - BM Cocktail Mixer,Dairy & Beverages,Beverages,250 ml,250,junk,1,1,0,0
+Home Made Rose Falooda Syrup,Dairy & Beverages,Beverages,750 ml,750,junk,1,1,0,0
+Home Made Masala Shikanji Syrup,Dairy & Beverages,Beverages,750 ml,750,junk,1,1,0,0
+Monin Mojito Mint Flavoured Syrup,Dairy & Beverages,Beverages,250 ml,250,junk,1,1,0,0
+Home Made Anjeer Kesar Fruit Squash,Dairy & Beverages,Beverages,750 ml,750,junk,1,1,0,0
+Guruji Rose Sharbat,Dairy & Beverages,Beverages,1 L,1000,junk,1,1,0,0
+Monin Blue Curacao Flavoured Syrup,Dairy & Beverages,Beverages,250 ml,250,junk,1,1,0,0
+Monin Green Apple Flavoured Syrup,Dairy & Beverages,Beverages,250 ml,250,junk,1,1,0,0
+Monin Vanilla Flavoured Syrup,Dairy & Beverages,Beverages,250 ml,250,junk,1,1,0,0
+Hershey's Strawberry Syrup,Dairy & Beverages,Beverages,623 gm,623,junk,1,1,0,0
+Britannia Toastea Premium Bake Rusk,Packaged Food,Bakery,654 gm,654,junk,0,1,0,0
+Britannia Toastea Premium Bake Rusk,Packaged Food,Bakery,400 gm,400,junk,0,1,0,0
+Britannia Toastea Premium Bake Rusk,Packaged Food,Bakery,273 gm,273,junk,0,1,0,0
+Parle Real Elaichi Premium Rusk,Packaged Food,Bakery,273 gm,273,junk,0,1,0,0
+Parle Real Elaichi Premium Rusk,Packaged Food,Bakery,400 gm,400,junk,0,1,0,0
+Royal Toast,Packaged Food,Bakery,400 gm,400,junk,0,1,0,0
+Haldiram's Bhujia Sev,Packaged Food,Snacks & Farsans,150 gm,150,junk,19,1,0,0
+Haldiram's Bhujia Sev,Packaged Food,Snacks & Farsans,350 gm,350,junk,19,1,0,0
+Haldiram's Bhujia Sev,Packaged Food,Snacks & Farsans,1 kg,1000,junk,19,1,0,0
+Haldiram's Aloo Bhujia,Packaged Food,Snacks & Farsans,150 gm,150,junk,19,1,0,0
+Haldiram's Aloo Bhujia,Packaged Food,Snacks & Farsans,350 gm,350,junk,19,1,0,0
+Haldiram's Aloo Bhujia,Packaged Food,Snacks & Farsans,1 kg,1000,junk,19,1,0,0
+Chheda's Mix Farsan,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Rajam Snacks Garlic Mixture,Packaged Food,Snacks & Farsans,800 gm,800,junk,19,1,0,0
+Haldiram's Khatta Meetha,Packaged Food,Snacks & Farsans,350 gm,350,junk,19,1,0,0
+Haldiram's Khatta Meetha,Packaged Food,Snacks & Farsans,1 kg,1000,junk,19,1,0,0
+Bikaji Bhujia,Packaged Food,Snacks & Farsans,1 kg,1000,junk,19,1,0,0
+Haldiram's Moong Dal,Packaged Food,Snacks & Farsans,150 gm,150,junk,19,1,0,0
+Haldiram's Moong Dal,Packaged Food,Snacks & Farsans,350 gm,350,junk,19,1,0,0
+Haldiram's Moong Dal,Packaged Food,Snacks & Farsans,1 kg,1000,junk,19,1,0,0
+Haldiram's Mixture,Packaged Food,Snacks & Farsans,350 gm,350,junk,19,1,0,0
+Bikaneri Shree Ram Bhujia,Packaged Food,Snacks & Farsans,1 kg,1000,junk,19,1,0,0
+Jayshree Special Farsan,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Chheda's Golden Mix,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Sitashree Laxminarayan Best Chiwda,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Rajam Snacks Madras Mixture,Packaged Food,Snacks & Farsans,300 gm,300,junk,19,1,0,0
+Rajam Snacks Madras Mixture,Packaged Food,Snacks & Farsans,150 gm,150,junk,19,1,0,0
+Rajam Mix Farsan,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+Sitashree Laxminarayan Cornflakes Chiwda,Packaged Food,Snacks & Farsans,250 gm,250,junk,19,1,0,0
+Rajam Snacks Tikha Gathiya,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+Sitashree Laxminarayan Best Potato Chiwda,Packaged Food,Snacks & Farsans,250 gm,250,junk,19,1,0,0
+Agrawal's 420 Khatta Meetha Mix,Packaged Food,Snacks & Farsans,900 gm,900,junk,19,1,0,0
+Rajam Snacks Golden Mix,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+Rajam Snacks Yellow Banana Chips,Packaged Food,Snacks & Farsans,300 gm,300,junk,19,1,0,0
+Chitale Bandhu Bakarwadi,Packaged Food,Snacks & Farsans,250 gm,250,junk,19,1,0,0
+Chitale Bandhu Bakarwadi,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Chheda's Diet Poha Chivda,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Tong Garden Party Snack,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Tong Garden BBQ Flavour Coated Broad Bean,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Tong Garden Salted Cocktail Nuts,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+Lijjat Udad Papad,Packaged Food,Snacks & Farsans,200 gm,200,junk,19,1,0,0
+Lijjat Udad Papad,Packaged Food,Snacks & Farsans,1 kg,1000,junk,19,1,0,0
+Chheda's Bhel Mix,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Haldiram's Tasty Nuts,Packaged Food,Snacks & Farsans,350 gm,350,junk,19,1,0,0
+Lijjat Udad Mini Papad,Packaged Food,Snacks & Farsans,200 gm,200,junk,19,1,0,0
+Lijjat Udad Mini Papad,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Lijjat Udad Mini Papad,Packaged Food,Snacks & Farsans,1 kg,1000,junk,19,1,0,0
+Rajam Snacks Mangalore Mixture,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+Sitashree Laxminarayan Best Chiwda,Packaged Food,Snacks & Farsans,250 gm,250,junk,19,1,0,0
+Rajam Snacks Tukda Masala Murukku,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+Sitashree Laxminarayan Mix Farsan,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Sitashree Laxminarayan Lite Chiwda,Packaged Food,Snacks & Farsans,250 gm,250,junk,19,1,0,0
+Sitashree Laxminarayan Shabuflakes Chiwda,Packaged Food,Snacks & Farsans,250 gm,250,junk,19,1,0,0
+Act II Movie Theatre Butter Flavour Popcorn,Packaged Food,Snacks & Farsans,450 gm,450,junk,19,1,0,0
+Sitashree Laxminarayan Patal Poha Chiwda,Packaged Food,Snacks & Farsans,250 gm,250,junk,19,1,0,0
+Act II Cheese Flavour Popcorn,Packaged Food,Snacks & Farsans,210 gm,210,junk,19,1,0,0
+Rajam Snacks Tukda Murukku,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+McCain French Fries,Packaged Food,Snacks & Farsans,750 gm,750,junk,19,1,0,0
+McCain French Fries,Packaged Food,Snacks & Farsans,1.25 Kg,1250,junk,19,1,0,0
+McCain French Fries,Packaged Food,Snacks & Farsans,420 gm,420,junk,19,1,0,0
+Safal Green Peas (Frozen),Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Safal Green Peas (Frozen),Packaged Food,Snacks & Farsans,1 kg,1000,junk,19,1,0,0
+Freshezza Frozen Green Peas,Packaged Food,Snacks & Farsans,1 kg,1000,junk,19,1,0,0
+Freshezza Frozen Green Peas,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Godrej Yummiez Frozen Green Peas,Packaged Food,Snacks & Farsans,1 Kg,1000,junk,19,1,0,0
+McCain Potato Cheese Shotz,Packaged Food,Snacks & Farsans,250 gm,250,junk,19,1,0,0
+McCain Potato Cheese Shotz,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+McCain Chilli Garlic Potato Bites,Packaged Food,Snacks & Farsans,700 gm,700,junk,19,1,0,0
+Godrej Yummiez French Fries,Packaged Food,Snacks & Farsans,425 gm,425,junk,19,1,0,0
+McCain Veggie Fingers,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+McCain Aloo Tikki,Packaged Food,Snacks & Farsans,760 gm,760,junk,19,1,0,0
+McCain Smiles - Crispy Happy Potatoes,Packaged Food,Snacks & Farsans,1.25 Kg,1250,junk,19,1,0,0
+McCain Smiles - Crispy Happy Potatoes,Packaged Food,Snacks & Farsans,415 gm,415,junk,19,1,0,0
+McCain Smiles - Crispy Happy Potatoes,Packaged Food,Snacks & Farsans,750 gm,750,junk,19,1,0,0
+McCain Chilli Cheesy Nuggets,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+McCain Veggie Burger Patty,Packaged Food,Snacks & Farsans,360 gm,360,junk,19,1,0,0
+Godrej Yummiez Green Peas,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Sumeru Piri Piri Masala French Fries - Crispy & Spicy,Packaged Food,Snacks & Farsans,800 gm,800,junk,19,1,0,0
+McCain Variety Pack - 3 Packs Inside,Packaged Food,Snacks & Farsans,550 gm,550,junk,19,1,0,0
+ITC Master Chef Veggie Pizza Pocket,Packaged Food,Snacks & Farsans,340 gm,340,junk,19,1,0,0
+Mccain Emotibites,Packaged Food,Snacks & Farsans,750 gm,750,junk,19,1,0,0
+Godrej Yummiez Potato Cheese Bites,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+McCain Aloo Tikki,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+ITC Master Chef Veg Burger Patty,Packaged Food,Snacks & Farsans,540 gm,540,junk,19,1,0,0
+Godrej Yummiez Crispy Veg Sticks,Packaged Food,Snacks & Farsans,320 gm,320,junk,19,1,0,0
+McCain Chilli Garlic Potato Bites,Packaged Food,Snacks & Farsans,420 gm,420,junk,19,1,0,0
+ITC Master Chef Chilli Garlic Potato Shots,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Godrej Yummiez Veg Masala Nuggets,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+McCain Aloo Tikki,Packaged Food,Snacks & Farsans,1.24 kg,1240,junk,19,1,0,0
+Switz Samosa Dough Sheet,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Safal Frozen Mixed Vegetables,Packaged Food,Snacks & Farsans,500 gm,500,junk,19,1,0,0
+Switz Spring Roll Dough Sheet,Packaged Food,Snacks & Farsans,275 gm,275,junk,19,1,0,0
+Godrej Yummiez Veg Burger Patty,Packaged Food,Snacks & Farsans,340 gm,340,junk,19,1,0,0
+ITC Master Chef Cheesy Corn Triangles,Packaged Food,Snacks & Farsans,320 gm,320,junk,19,1,0,0
+ITC Masterchef Lebanese Falafel Kebab,Packaged Food,Snacks & Farsans,230 gm,230,junk,19,1,0,0
+Switz Samosa Dough Sheet,Packaged Food,Snacks & Farsans,250 gm,250,junk,19,1,0,0
+Sumeru Malabar Paratha,Packaged Food,Snacks & Farsans,300 gm,300,junk,19,1,0,0
+Safal Frozen French Fries,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+Mccain Emoti Bites,Packaged Food,Snacks & Farsans,415 gm,415,junk,19,1,0,0
+ITC Master Chef Hara Bhara Kebab 210 gms,Packaged Food,Snacks & Farsans,210 gm,210,junk,19,1,0,0
+Sumeru Chilli Garlic Masala French Fries,Packaged Food,Snacks & Farsans,400 gm,400,junk,19,1,0,0
+ITC Master Chef Alphabytes,Packaged Food,Snacks & Farsans,450 gm,450,junk,19,1,0,0
+Act II Butter Delite Flavour Popcorn,Packaged Food,Snacks & Farsans,450 gm,450,junk,19,1,0,0
+MP Sihore Wheat,DMart Grocery,DMart Grocery,5 kg,5000,non-edible,3,0,0,1
+MP Sihore Wheat,DMart Grocery,DMart Grocery,10 kg,10000,non-edible,3,0,0,1
+Maida,DMart Grocery,DMart Grocery,500 gm,500,non-edible,3,0,0,1
+Maida,DMart Grocery,DMart Grocery,1 kg,1000,non-edible,3,0,0,1
+Jawar (Sorghum) Solapur,DMart Grocery,DMart Grocery,1 kg,1000,non-edible,3,0,0,1
+24 Mantra Organic Jaggery Powder,Grocery,Salt / Sugar / Jaggery,500 gm,500,healthy,18,0,1,0
+Pitambari Ruchiyana Jaggery Powder - Chemical Free,Grocery,Salt / Sugar / Jaggery,500 gm,500,healthy,18,0,1,0
+Bhagar,DMart Grocery,Rice & Rice Products,500 gm,500,healthy,17,0,1,0
+Idli Rava,DMart Grocery,DMart Grocery,500 gm,500,non-edible,3,0,0,1
+Idli Rava,DMart Grocery,DMart Grocery,1 kg,1000,non-edible,3,0,0,1
+Rasmalai Premium Desi Jaggery Pieces,Grocery,Salt / Sugar / Jaggery,800 gm,800,healthy,18,0,1,0
+Satyam Jaggery,Grocery,Salt / Sugar / Jaggery,500 gm,500,healthy,18,0,1,0
+Organic Tattva Sugar,Grocery,Salt / Sugar / Jaggery,1 kg,1000,healthy,18,0,1,0
+24 Mantra Organic Sugar,Grocery,Salt / Sugar / Jaggery,1 kg,1000,healthy,18,0,1,0
+Organic Tattva Brown Sugar,Grocery,Salt / Sugar / Jaggery,500 gm,500,healthy,18,0,1,0
+Organic Tattva Jaggery Powder,Grocery,Salt / Sugar / Jaggery,500 gm,500,healthy,18,0,1,0
+Bisleri Packaged Drinking Water,Dairy & Beverages,Beverages,250 ml x 48U,250,healthy,1,0,1,0
+Bisleri Water,Dairy & Beverages,Beverages,5 L,5000,healthy,1,0,1,0
+Bisleri Water,Dairy & Beverages,Beverages,1 L,1000,healthy,1,0,1,0

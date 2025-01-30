@@ -1,9 +1,10 @@
+// goal_page.dart
+
 import 'package:flutter/material.dart';
 import 'package:percent_indicator/percent_indicator.dart'; // Import the percent indicator package
-import '../services/local_notification_service.dart'; // Import the notification service
 
 class GoalPage extends StatelessWidget {
-  final int Goal; // You can pass the stress level value dynamically
+  final int Goal; // You can pass the calorie goal value dynamically
 
   GoalPage({required this.Goal});
 
@@ -34,7 +35,6 @@ class GoalPage extends StatelessWidget {
               painter: CirclePatternPainter(),
             ),
           ),
-
           Padding(
             padding: const EdgeInsets.all(16.0),
             child: Column(
@@ -60,7 +60,7 @@ class GoalPage extends StatelessWidget {
                 ),
                 SizedBox(height: 20), // Space between the range indicators and other content
 
-                // Stress level message and percentage
+                // Calorie intake message and percentage
                 Text(
                   'Your Calory intake: $Goal/3000', // Change to show 3000 as the max
                   style: TextStyle(
@@ -71,7 +71,7 @@ class GoalPage extends StatelessWidget {
                 ),
                 SizedBox(height: 20),
 
-                // Stress description based on the level
+                // Goal description based on the level
                 Text(
                   getGoalDescription(Goal),
                   textAlign: TextAlign.center,
@@ -130,29 +130,29 @@ class GoalPage extends StatelessWidget {
   // Helper function to show notification
   void _showGoalNotification() {
     String message = getGoalDescription(Goal);
-    LocalNotificationService().showNotification(
+    (
       id: 0, // Notification ID
       title: 'Goal Achieved!',
       body: 'Your Calory intake: $Goal/3000. $message',
     );
   }
 
-  // Helper function to get stress description
+  // Helper function to get goal description
   String getGoalDescription(int level) {
     if (level <= 1000) {
       return 'You are doing great. Keep up the good work!';
-    } else if (level <= 2000 || level>1000) {
+    } else if (level <= 2000 || level > 1000) {
       return 'I see that you are enjoying your food today. That\'s nice. Let\'s have some more :).';
     } else {
       return 'It looks like you had your fill today. But you better stop now.';
     }
   }
 
-  // Helper function to get the color based on stress level
+  // Helper function to get the color based on goal level
   Color getColorForGoalLevel(int level) {
     if (level <= 1000) {
       return Colors.green;
-    } else if (level <= 2000 || level>1000) {
+    } else if (level <= 2000 || level > 1000) {
       return Colors.orange[400]!;
     } else {
       return Colors.red;
